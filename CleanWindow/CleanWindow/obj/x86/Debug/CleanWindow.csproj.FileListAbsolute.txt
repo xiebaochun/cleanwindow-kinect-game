@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Debug\CleanWindow.exe
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Debug\Content\Textures\hand.xnb
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Debug\CleanWindow.exe
+c:\users\user\documents\visual studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Debug\CleanWindow.pdb

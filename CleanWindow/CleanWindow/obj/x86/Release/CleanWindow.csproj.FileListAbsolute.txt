@@ -1,0 +1,249 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.pdb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-11.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-12.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-21.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\mainmenu.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1b.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2b.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3b.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\shine-181.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-0.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-4.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_left.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_right.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_left.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_right.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-5.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game1bg.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game2bg.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game3bg.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\magic.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\camera1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_down.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_up.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\wipe.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\applause.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\cheering2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\Click02.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoshutter.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoready.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotosmile.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.wma
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.wma
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.pdb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.pdb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-01.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-02.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-03.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-04.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-05.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-06.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-07.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-08.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-09.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-10.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-11.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-12.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-13.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-14.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\train.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1a.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2a.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3a.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.wma
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.wma
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.xnb
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.wma
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe.manifest
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.application
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe.manifest
+C:\Users\Mcom\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-11.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-12.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-21.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\mainmenu.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1b.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2b.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3b.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\shine-181.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-0.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-4.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_left.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_right.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_left.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_right.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-5.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-01.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-02.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-03.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-04.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-05.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-06.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-07.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-08.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-09.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-10.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-11.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-12.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-13.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-14.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game2bg.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game1bg.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game3bg.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\train.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1a.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2a.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3a.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\magic.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\camera1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_down.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_up.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\wipe.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\applause.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\cheering2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\Click02.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoshutter.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoready.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotosmile.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.wma
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.wma
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.wma
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.wma
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.wma
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.application
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\particle3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-11.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-12.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\groves-21.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\mainmenu.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn1b.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn2b.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\button\01-btn3b.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\shine-181.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-0.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-4.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_left.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\glove\glove_hold_right.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_left.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\towel\towel_up_right.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\takephoto\bg07-5.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-01.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-02.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-03.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-04.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-05.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-06.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-07.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-08.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-09.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-10.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-11.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-12.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-13.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\dirts\dirts-14.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game2bg.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game1bg.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\background\game3bg.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\train.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map1a.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map2a.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Textures\transition\map3a.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\magic.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\camera1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_down.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime_up.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\wipe.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\applause.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\cheering2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\chime2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\Click02.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoshutter.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephoto3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotoready.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Sounds\takephotosmile.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.xnb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\menumusic.wma
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic1.wma
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\transition.wma
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic2.wma
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\Content\Music\bgmusic3.wma
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe.manifest
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.application
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.exe
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\bin\x86\Release\CleanWindow.pdb
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe.manifest
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.application
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.exe
+C:\Game_Projects\CleanWindow\CleanWindow\CleanWindow\obj\x86\Release\CleanWindow.pdb
