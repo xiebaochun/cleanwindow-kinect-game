@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="CleanWindow.Properties.message" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="CleanWindow.Properties.CleanWindow" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <CleanWindow.Properties.message>
+            <setting name="Message_NOTexture" serializeAs="String">
+                <value>缺少对应图片！</value>
+            </setting>
+            <setting name="Message_NOFile" serializeAs="String">
+                <value>缺少对应文件夹！</value>
+            </setting>
+        </CleanWindow.Properties.message>
+        <CleanWindow.Properties.CleanWindow>
+            <setting name="backgroundPath" serializeAs="String">
+                <value>Photos</value>
+            </setting>
+            <setting name="capturesPath" serializeAs="String">
+                <value>Captures</value>
+            </setting>
+            <setting name="particleTextures" serializeAs="String">
+                <value>Textures\particle2.png</value>
+            </setting>
+            <setting name="magicTextures" serializeAs="String">
+                <value>Textures\shine-181.png</value>
+            </setting>
+            <setting name="startButton" serializeAs="String">
+                <value>Textures\button\01-btn1.png</value>
+            </setting>
+            <setting name="startButtonPressed" serializeAs="String">
+                <value>Textures\button\01-btn1b.png</value>
+            </setting>
+            <setting name="helpButton" serializeAs="String">
+                <value>Textures\button\01-btn2.png</value>
+            </setting>
+            <setting name="helpButtonPressed" serializeAs="String">
+                <value>Textures\button\01-btn2b.png</value>
+            </setting>
+            <setting name="settingButton" serializeAs="String">
+                <value>Textures\button\01-btn3.png</value>
+            </setting>
+            <setting name="settingButtonPressed" serializeAs="String">
+                <value>Textures\button\01-btn3b.png</value>
+            </setting>
+            <setting name="takePhotoTextures_01" serializeAs="String">
+                <value>Textures\takephoto\bg07-0.png</value>
+            </setting>
+            <setting name="takePhotoTextures_02" serializeAs="String">
+                <value>Textures\takephoto\bg07-1.png</value>
+            </setting>
+            <setting name="takePhotoTextures_03" serializeAs="String">
+                <value>Textures\takephoto\bg07-2.png</value>
+            </setting>
+            <setting name="takePhotoTextures_04" serializeAs="String">
+                <value>Textures\takephoto\bg07-3.png</value>
+            </setting>
+            <setting name="takePhotoTextures_05" serializeAs="String">
+                <value>Textures\takephoto\bg07-4.png</value>
+            </setting>
+            <setting name="takePhotoTextures_06" serializeAs="String">
+                <value>Textures\takephoto\bg07-5.jpg</value>
+            </setting>
+            <setting name="leftHandSpriteTexture" serializeAs="String">
+                <value>Textures\glove\glove_hold_left.png</value>
+            </setting>
+            <setting name="rightHandSpriteTexture" serializeAs="String">
+                <value>Textures\glove\glove_hold_right.png</value>
+            </setting>
+            <setting name="gb_Main" serializeAs="String">
+                <value>Textures\background\mainmenu.jpg</value>
+            </setting>
+            <setting name="gb_01" serializeAs="String">
+                <value>Textures\background\game1bg.png</value>
+            </setting>
+            <setting name="gb_02" serializeAs="String">
+                <value>Textures\background\game2bg.png</value>
+            </setting>
+            <setting name="gb_03" serializeAs="String">
+                <value>Textures\background\game3bg.png</value>
+            </setting>
+            <setting name="leftHandSprite" serializeAs="String">
+                <value>Textures\glove\groves-11.png</value>
+            </setting>
+            <setting name="rightHandSprite" serializeAs="String">
+                <value>Textures\glove\groves-21.png</value>
+            </setting>
+            <setting name="leftHandManager" serializeAs="String">
+                <value>Textures\towel\towel_up_left.png</value>
+            </setting>
+            <setting name="rightHandManager" serializeAs="String">
+                <value>Textures\towel\towel_up_right.png</value>
+            </setting>
+            <setting name="stageTexture" serializeAs="String">
+                <value>Textures\stage\Stage.png</value>
+            </setting>
+            <setting name="stageNumberTexture" serializeAs="String">
+                <value>Textures\stage\StageNumber.png</value>
+            </setting>
+            <setting name="compile_soundChim" serializeAs="String">
+                <value>Sounds\chime2.wav</value>
+            </setting>
+            <setting name="compile_soundApplus" serializeAs="String">
+                <value>Sounds\applause.wav</value>
+            </setting>
+            <setting name="compile_soundCamera" serializeAs="String">
+                <value>Sounds\camera1.wav</value>
+            </setting>
+            <setting name="compile_soundCheering" serializeAs="String">
+                <value>Sounds\cheering2.wav</value>
+            </setting>
+            <setting name="compile_soundWipe" serializeAs="String">
+                <value>Sounds\wipe.wav</value>
+            </setting>
+            <setting name="compile_soundClick" serializeAs="String">
+                <value>Sounds\Click02.wav</value>
+            </setting>
+            <setting name="compile_takephotoready" serializeAs="String">
+                <value>Sounds\takephotoready.wav</value>
+            </setting>
+            <setting name="compile_takephoto1" serializeAs="String">
+                <value>Sounds\takephoto1.wav</value>
+            </setting>
+            <setting name="compile_takephoto2" serializeAs="String">
+                <value>Sounds\takephoto2.wav</value>
+            </setting>
+            <setting name="compile_takephoto3" serializeAs="String">
+                <value>Sounds\takephoto3.wav</value>
+            </setting>
+            <setting name="compile_takephotosmile" serializeAs="String">
+                <value>Sounds\takephotosmile.wav</value>
+            </setting>
+            <setting name="compile_takephotoshutter" serializeAs="String">
+                <value>Sounds\takephotoshutter.wav</value>
+            </setting>
+            <setting name="compile_bgMusics_Menu" serializeAs="String">
+                <value>Music\menumusic.mp3</value>
+            </setting>
+            <setting name="compile_bgMusics_transition" serializeAs="String">
+                <value>Music\transition.mp3</value>
+            </setting>
+            <setting name="compile_bgMusic" serializeAs="String">
+                <value>Music</value>
+            </setting>
+            <setting name="compile_bgMusics_Name" serializeAs="String">
+                <value>bgmusic1.mp3;bgmusic2.mp3;bgmusic3.mp3</value>
+            </setting>
+            <setting name="basePath" serializeAs="String">
+                <value>F:\CleanWindow\Resources</value>
+            </setting>
+            <setting name="fogTextures_BasePath" serializeAs="String">
+                <value>Textures\dirts</value>
+            </setting>
+            <setting name="playTimeOut" serializeAs="String">
+                <value>60;90;120;150;180;210;240;270;300</value>
+            </setting>
+            <setting name="minAlpha" serializeAs="String">
+                <value>0.3</value>
+            </setting>
+            <setting name="cleanTimes" serializeAs="String">
+                <value>1;1;2;2;3;3</value>
+            </setting>
+            <setting name="PASSPERCENTAGE" serializeAs="String">
+                <value>80</value>
+            </setting>
+            <setting name="albumShowTime_Seconds" serializeAs="String">
+                <value>5</value>
+            </setting>
+            <setting name="albumTexturePath" serializeAs="String">
+                <value>Captures\album.jpg</value>
+            </setting>
+            <setting name="transitionTrainTexture" serializeAs="String">
+                <value>transition\train</value>
+            </setting>
+            <setting name="transitionMap" serializeAs="String">
+                <value>transition</value>
+            </setting>
+            <setting name="progressBarTexture" serializeAs="String">
+                <value>Textures\progressBar.png</value>
+            </setting>
+            <setting name="route" serializeAs="String">
+                <value>Asia;Europe;Africa;Australia;northAmerican;southAmerican</value>
+            </setting>
+        </CleanWindow.Properties.CleanWindow>
+    </userSettings>
+</configuration>

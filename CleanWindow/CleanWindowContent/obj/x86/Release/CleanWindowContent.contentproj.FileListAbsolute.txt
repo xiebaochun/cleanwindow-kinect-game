@@ -1,0 +1,2 @@
+F:\CleanWindow\CleanWindow\CleanWindowContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CleanWindow\CleanWindow\CleanWindowContent\obj\x86\Release\ResolveAssemblyReference.cache

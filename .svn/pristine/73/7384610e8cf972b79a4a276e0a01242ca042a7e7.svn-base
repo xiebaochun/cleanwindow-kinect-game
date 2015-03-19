@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CleanWindow.Properties" GeneratedClassName="message">
+  <Profiles />
+  <Settings>
+    <Setting Name="Message_NOTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">缺少对应图片！</Value>
+    </Setting>
+    <Setting Name="Message_NOFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">缺少对应文件夹！</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,174 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CleanWindow.Properties" GeneratedClassName="CleanWindow">
+  <Profiles />
+  <Settings>
+    <Setting Name="backgroundPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Photos</Value>
+    </Setting>
+    <Setting Name="capturesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Captures</Value>
+    </Setting>
+    <Setting Name="particleTextures" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\particle2.png</Value>
+    </Setting>
+    <Setting Name="magicTextures" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\shine-181.png</Value>
+    </Setting>
+    <Setting Name="startButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn1.png</Value>
+    </Setting>
+    <Setting Name="startButtonPressed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn1b.png</Value>
+    </Setting>
+    <Setting Name="helpButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn2.png</Value>
+    </Setting>
+    <Setting Name="helpButtonPressed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn2b.png</Value>
+    </Setting>
+    <Setting Name="settingButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn3.png</Value>
+    </Setting>
+    <Setting Name="settingButtonPressed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\button\01-btn3b.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-0.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_02" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-1.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_03" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-2.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_04" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-3.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_05" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-4.png</Value>
+    </Setting>
+    <Setting Name="takePhotoTextures_06" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\takephoto\bg07-5.jpg</Value>
+    </Setting>
+    <Setting Name="leftHandSpriteTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\glove\glove_hold_left.png</Value>
+    </Setting>
+    <Setting Name="rightHandSpriteTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\glove\glove_hold_right.png</Value>
+    </Setting>
+    <Setting Name="gb_Main" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\background\mainmenu.jpg</Value>
+    </Setting>
+    <Setting Name="gb_01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\background\game1bg.png</Value>
+    </Setting>
+    <Setting Name="gb_02" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\background\game2bg.png</Value>
+    </Setting>
+    <Setting Name="gb_03" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\background\game3bg.png</Value>
+    </Setting>
+    <Setting Name="leftHandSprite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\glove\groves-11.png</Value>
+    </Setting>
+    <Setting Name="rightHandSprite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\glove\groves-21.png</Value>
+    </Setting>
+    <Setting Name="leftHandManager" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\towel\towel_up_left.png</Value>
+    </Setting>
+    <Setting Name="rightHandManager" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\towel\towel_up_right.png</Value>
+    </Setting>
+    <Setting Name="stageTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\stage\Stage.png</Value>
+    </Setting>
+    <Setting Name="stageNumberTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\stage\StageNumber.png</Value>
+    </Setting>
+    <Setting Name="compile_soundChim" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\chime2.wav</Value>
+    </Setting>
+    <Setting Name="compile_soundApplus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\applause.wav</Value>
+    </Setting>
+    <Setting Name="compile_soundCamera" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\camera1.wav</Value>
+    </Setting>
+    <Setting Name="compile_soundCheering" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\cheering2.wav</Value>
+    </Setting>
+    <Setting Name="compile_soundWipe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\wipe.wav</Value>
+    </Setting>
+    <Setting Name="compile_soundClick" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\Click02.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephotoready" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephotoready.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephoto1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephoto1.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephoto2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephoto2.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephoto3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephoto3.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephotosmile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephotosmile.wav</Value>
+    </Setting>
+    <Setting Name="compile_takephotoshutter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\takephotoshutter.wav</Value>
+    </Setting>
+    <Setting Name="compile_bgMusics_Menu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Music\menumusic.mp3</Value>
+    </Setting>
+    <Setting Name="compile_bgMusics_transition" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Music\transition.mp3</Value>
+    </Setting>
+    <Setting Name="compile_bgMusic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Music</Value>
+    </Setting>
+    <Setting Name="compile_bgMusics_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bgmusic1.mp3;bgmusic2.mp3;bgmusic3.mp3</Value>
+    </Setting>
+    <Setting Name="basePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\CleanWindow\Resources</Value>
+    </Setting>
+    <Setting Name="fogTextures_BasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\dirts</Value>
+    </Setting>
+    <Setting Name="playTimeOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60;90;120;150;180;210;240;270;300</Value>
+    </Setting>
+    <Setting Name="minAlpha" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="cleanTimes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1;1;2;2;3;3</Value>
+    </Setting>
+    <Setting Name="PASSPERCENTAGE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="albumShowTime_Seconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="albumTexturePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Captures\album.jpg</Value>
+    </Setting>
+    <Setting Name="transitionTrainTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">transition\train</Value>
+    </Setting>
+    <Setting Name="transitionMap" Type="System.String" Scope="User">
+      <Value Profile="(Default)">transition</Value>
+    </Setting>
+    <Setting Name="progressBarTexture" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Textures\progressBar.png</Value>
+    </Setting>
+    <Setting Name="route" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Asia;Europe;Africa;Australia;northAmerican;southAmerican</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
